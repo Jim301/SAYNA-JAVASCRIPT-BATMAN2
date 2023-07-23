@@ -1,5 +1,4 @@
-# SAYNA-JAVASCRIPT-BATMAN2
-Projet Fil Rouge - BATMAN2
+# Projet Fil Rouge - BATMAN2
 
 Voici la deuxième partie du projet fil rouge BATMAN, qui continue de nous suivre dans
 notre apprentissage. Au fur et à mesure de notre avancée dans le programme, nous
